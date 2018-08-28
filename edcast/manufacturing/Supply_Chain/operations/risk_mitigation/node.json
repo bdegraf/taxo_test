@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Risk Mitigation", "query": "\"risk mitigation\"", "path": "edcast.manufacturing.Supply_Chain.operations.risk_mitigation", "id": 4561360800606037193, "name": "risk_mitigation"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800606037193, 
+    "kind": 1, 
+    "label": "Risk Mitigation", 
+    "name": "risk_mitigation", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.risk_mitigation", 
+    "query": "\"risk mitigation\"", 
+    "status": 1
+}

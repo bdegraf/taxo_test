@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Procurement Planning", "query": "procurement+planning", "path": "edcast.manufacturing.Supply_Chain.procurement.procurement_planning", "id": 4563103549048224414, "name": "procurement_planning"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563103549048224414, 
+    "kind": 1, 
+    "label": "Procurement Planning", 
+    "name": "procurement_planning", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.procurement_planning", 
+    "query": "procurement+planning", 
+    "status": 1
+}

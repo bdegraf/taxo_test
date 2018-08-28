@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Supply Chain", "query": "\"supply chain\"", "path": "edcast.manufacturing.Supply_Chain.supply_chain", "id": 4598424235145595976, "name": "supply_chain"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4598424235145595976, 
+    "kind": 1, 
+    "label": "Supply Chain", 
+    "name": "supply_chain", 
+    "path": "edcast.manufacturing.Supply_Chain.supply_chain", 
+    "query": "\"supply chain\"", 
+    "status": 1
+}

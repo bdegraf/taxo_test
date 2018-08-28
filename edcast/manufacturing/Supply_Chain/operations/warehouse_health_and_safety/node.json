@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Warehouse Health And Safety", "query": "((warehouse+safety)|(warehouse+worker+health))-(oakland|\"food safety\"|bannon))", "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_health_and_safety", "id": 4561360800542877950, "name": "warehouse_health_and_safety"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800542877950, 
+    "kind": 1, 
+    "label": "Warehouse Health And Safety", 
+    "name": "warehouse_health_and_safety", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_health_and_safety", 
+    "query": "((warehouse+safety)|(warehouse+worker+health))-(oakland|\"food safety\"|bannon))", 
+    "status": 1
+}

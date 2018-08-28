@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Problem Solving Decision Making", "query": "decision making+\"supply chain\"", "path": "edcast.manufacturing.Supply_Chain.operations.problem_solving_decision_making", "id": 4561360800706401331, "name": "problem_solving_decision_making"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800706401331, 
+    "kind": 1, 
+    "label": "Problem Solving Decision Making", 
+    "name": "problem_solving_decision_making", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.problem_solving_decision_making", 
+    "query": "decision making+\"supply chain\"", 
+    "status": 1
+}

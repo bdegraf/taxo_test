@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Exception Handling", "query": "\"exception handling\"", "path": "edcast.manufacturing.Supply_Chain.operations.exception_handling", "id": 4561360800720809696, "name": "exception_handling"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800720809696, 
+    "kind": 1, 
+    "label": "Exception Handling", 
+    "name": "exception_handling", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.exception_handling", 
+    "query": "\"exception handling\"", 
+    "status": 1
+}

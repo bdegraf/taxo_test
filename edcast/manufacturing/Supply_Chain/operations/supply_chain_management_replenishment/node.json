@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Supply Chain Management Replenishment", "query": "((replenishment+management) |(\"supply chain management\")+replenishment|Replenishment)-(water|coral)", "path": "edcast.manufacturing.Supply_Chain.operations.supply_chain_management_replenishment", "id": 4563101015966761982, "name": "supply_chain_management_replenishment"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563101015966761982, 
+    "kind": 1, 
+    "label": "Supply Chain Management Replenishment", 
+    "name": "supply_chain_management_replenishment", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.supply_chain_management_replenishment", 
+    "query": "((replenishment+management) |(\"supply chain management\")+replenishment|Replenishment)-(water|coral)", 
+    "status": 1
+}

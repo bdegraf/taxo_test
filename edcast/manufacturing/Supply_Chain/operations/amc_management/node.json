@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Amc Management", "query": "\"acceptable means of compliance\"", "path": "edcast.manufacturing.Supply_Chain.operations.amc_management", "id": 4561360800795844744, "name": "amc_management"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800795844744, 
+    "kind": 1, 
+    "label": "Amc Management", 
+    "name": "amc_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.amc_management", 
+    "query": "\"acceptable means of compliance\"", 
+    "status": 1
+}

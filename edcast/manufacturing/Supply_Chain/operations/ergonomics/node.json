@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Warehouse Ergonomics", "query": "(ergonomics|ergonomic)+warehouse", "path": "edcast.manufacturing.Supply_Chain.operations.ergonomics", "id": 4561360800571005627, "name": "ergonomics"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800571005627, 
+    "kind": 1, 
+    "label": "Warehouse Ergonomics", 
+    "name": "ergonomics", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.ergonomics", 
+    "query": "(ergonomics|ergonomic)+warehouse", 
+    "status": 1
+}

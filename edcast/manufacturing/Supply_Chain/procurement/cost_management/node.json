@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Cost Management", "query": "\"cost management\"", "path": "edcast.manufacturing.Supply_Chain.procurement.cost_management", "id": 4690453629754286174, "name": "cost_management"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4690453629754286174, 
+    "kind": 1, 
+    "label": "Cost Management", 
+    "name": "cost_management", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.cost_management", 
+    "query": "\"cost management\"", 
+    "status": 1
+}

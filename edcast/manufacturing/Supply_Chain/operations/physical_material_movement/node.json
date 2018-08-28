@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Physical Material Movement", "query": "((material+movement+warehouse)|(material+handling+warehouse)|manual+material+handling)-oakland", "path": "edcast.manufacturing.Supply_Chain.operations.physical_material_movement", "id": 4561360800580594022, "name": "physical_material_movement"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800580594022, 
+    "kind": 1, 
+    "label": "Physical Material Movement", 
+    "name": "physical_material_movement", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.physical_material_movement", 
+    "query": "((material+movement+warehouse)|(material+handling+warehouse)|manual+material+handling)-oakland", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Productivity Measurement", "query": "productivity+\"supply chain\" ", "path": "edcast.manufacturing.Supply_Chain.operations.productivity_measurement", "id": 4561360800754390049, "name": "productivity_measurement"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800754390049, 
+    "kind": 1, 
+    "label": "Productivity Measurement", 
+    "name": "productivity_measurement", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.productivity_measurement", 
+    "query": "productivity+\"supply chain\" ", 
+    "status": 1
+}

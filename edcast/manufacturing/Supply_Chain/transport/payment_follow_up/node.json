@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Payment Follow Up", "query": "payment follow up", "path": "edcast.manufacturing.Supply_Chain.transport.payment_follow_up", "id": 4561360800905217599, "name": "payment_follow_up"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800905217599, 
+    "kind": 1, 
+    "label": "Payment Follow Up", 
+    "name": "payment_follow_up", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.payment_follow_up", 
+    "query": "payment follow up", 
+    "status": 1
+}

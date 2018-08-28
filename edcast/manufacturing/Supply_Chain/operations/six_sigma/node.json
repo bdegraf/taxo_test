@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Six Sigma", "query": "\"six sigma\"", "path": "edcast.manufacturing.Supply_Chain.operations.six_sigma", "id": 4561360800693939725, "name": "six_sigma"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800693939725, 
+    "kind": 1, 
+    "label": "Six Sigma", 
+    "name": "six_sigma", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.six_sigma", 
+    "query": "\"six sigma\"", 
+    "status": 1
+}

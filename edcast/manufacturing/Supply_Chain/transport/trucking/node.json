@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Trucking", "query": "trucking -killer", "path": "edcast.manufacturing.Supply_Chain.transport.trucking", "id": 4723095402370809693, "name": "trucking"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4723095402370809693, 
+    "kind": 1, 
+    "label": "Trucking", 
+    "name": "trucking", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.trucking", 
+    "query": "trucking -killer", 
+    "status": 1
+}

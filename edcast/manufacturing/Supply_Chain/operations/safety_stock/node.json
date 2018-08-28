@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Safety Stock", "query": "safety stock", "path": "edcast.manufacturing.Supply_Chain.operations.safety_stock", "id": 4563102462685048624, "name": "safety_stock"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563102462685048624, 
+    "kind": 1, 
+    "label": "Safety Stock", 
+    "name": "safety_stock", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.safety_stock", 
+    "query": "safety stock", 
+    "status": 1
+}

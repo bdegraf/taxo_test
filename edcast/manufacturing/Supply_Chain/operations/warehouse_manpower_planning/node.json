@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Warehouse Manpower Planning", "query": "manpower planning warehous*", "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_manpower_planning", "id": 4561360800529655545, "name": "warehouse_manpower_planning"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800529655545, 
+    "kind": 1, 
+    "label": "Warehouse Manpower Planning", 
+    "name": "warehouse_manpower_planning", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_manpower_planning", 
+    "query": "manpower planning warehous*", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Cost Accounting", "query": "\"cost accounting\"", "path": "edcast.manufacturing.Supply_Chain.operations.cost_accounting", "id": 4561360800827204137, "name": "cost_accounting"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800827204137, 
+    "kind": 1, 
+    "label": "Cost Accounting", 
+    "name": "cost_accounting", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.cost_accounting", 
+    "query": "\"cost accounting\"", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Demand_planning", "query": "\"demand planning\"", "path": "edcast.manufacturing.Supply_Chain.procurement.demand_planning", "id": 4612241286222488137, "name": "demand_planning"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4612241286222488137, 
+    "kind": 1, 
+    "label": "Demand_planning", 
+    "name": "demand_planning", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.demand_planning", 
+    "query": "\"demand planning\"", 
+    "status": 1
+}

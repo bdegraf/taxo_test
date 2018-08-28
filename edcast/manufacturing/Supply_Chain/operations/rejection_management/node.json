@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Rejection Management", "query": "rejection +management+(\"supply chain\")", "path": "edcast.manufacturing.Supply_Chain.operations.rejection_management", "id": 4563635410573323362, "name": "rejection_management"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563635410573323362, 
+    "kind": 1, 
+    "label": "Rejection Management", 
+    "name": "rejection_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.rejection_management", 
+    "query": "rejection +management+(\"supply chain\")", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Vendor Management", "query": "(\"vendor management\")-cloud|(vendor+management)", "path": "edcast.manufacturing.Supply_Chain.operations.vendor_management", "id": 4561360800633598892, "name": "vendor_management"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800633598892, 
+    "kind": 1, 
+    "label": "Vendor Management", 
+    "name": "vendor_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.vendor_management", 
+    "query": "(\"vendor management\")-cloud|(vendor+management)", 
+    "status": 1
+}

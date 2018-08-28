@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Customer Acquisition", "query": "(customer acquisition) (\"supply chain\" transport)", "path": "edcast.manufacturing.Supply_Chain.transport.customer_acquisition", "id": 4561360800925039293, "name": "customer_acquisition"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800925039293, 
+    "kind": 1, 
+    "label": "Customer Acquisition", 
+    "name": "customer_acquisition", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.customer_acquisition", 
+    "query": "(customer acquisition) (\"supply chain\" transport)", 
+    "status": 1
+}

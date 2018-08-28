@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Innovation", "query": "(\"innovation\"+\"supply chain\"|\"innovation\"+procurement)-trump", "path": "edcast.manufacturing.Supply_Chain.procurement.innovation", "id": 4561450221887613724, "name": "innovation"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561450221887613724, 
+    "kind": 1, 
+    "label": "Innovation", 
+    "name": "innovation", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.innovation", 
+    "query": "(\"innovation\"+\"supply chain\"|\"innovation\"+procurement)-trump", 
+    "status": 1
+}
