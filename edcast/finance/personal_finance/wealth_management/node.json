@@ -3,9 +3,9 @@
     "d": 3, 
     "id": 4561360798146326269, 
     "kind": 1, 
-    "label": "\"wealth management\"|\"this is an edit\"", 
+    "label": "Wealth Management", 
     "name": "wealth_management", 
     "path": "edcast.finance.personal_finance.wealth_management", 
-    "query": "\"wealth management\"", 
+    "query": "\"wealth management\"|\"this is an edit\"", 
     "status": 1
 }
