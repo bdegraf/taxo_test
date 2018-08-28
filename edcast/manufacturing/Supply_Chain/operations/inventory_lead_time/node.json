@@ -1,0 +1,1 @@
+{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Inventory Lead Time", "query": "inventory+ (\"lead time\")", "path": "edcast.manufacturing.Supply_Chain.operations.inventory_lead_time", "id": 4563102919293829348, "name": "inventory_lead_time"}
