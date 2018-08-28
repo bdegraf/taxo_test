@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Nodejs Development", "query": "(\"node js\"|nodejs)+ development", "path": "edcast.technology.software_development.nodejs_development", "id": 4561360797080863818, "name": "nodejs_development"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360797080863818, 
+    "kind": 1, 
+    "label": "Nodejs Development", 
+    "name": "nodejs_development", 
+    "path": "edcast.technology.software_development.nodejs_development", 
+    "query": "(\"node js\"|nodejs)+ development", 
+    "status": 1
+}

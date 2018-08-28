@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Financial Planning", "query": "financial planning", "path": "edcast.finance.personal_finance.financial_planning", "id": 4561360798199090651, "name": "financial_planning"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360798199090651, 
+    "kind": 1, 
+    "label": "Financial Planning", 
+    "name": "financial_planning", 
+    "path": "edcast.finance.personal_finance.financial_planning", 
+    "query": "financial planning", 
+    "status": 1
+}

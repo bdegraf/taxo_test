@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Financial Advising", "query": "(financ*+advis*+personal)-trump -snapchat", "path": "edcast.finance.personal_finance.financial_advising", "id": 4561360798152248755, "name": "financial_advising"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360798152248755, 
+    "kind": 1, 
+    "label": "Financial Advising", 
+    "name": "financial_advising", 
+    "path": "edcast.finance.personal_finance.financial_advising", 
+    "query": "(financ*+advis*+personal)-trump -snapchat", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Internet Of Things", "query": "(iot|iiot|m2m|\"internet of things\")+(software|develop*)", "path": "edcast.technology.software_development.internet_of_things", "id": 4561360795640436353, "name": "internet_of_things"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795640436353, 
+    "kind": 1, 
+    "label": "Internet Of Things", 
+    "name": "internet_of_things", 
+    "path": "edcast.technology.software_development.internet_of_things", 
+    "query": "(iot|iiot|m2m|\"internet of things\")+(software|develop*)", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Middleware And Integration Software", "query": "middleware|\"integration software\"|\"distributed application\"|\"distributed applications\"", "path": "edcast.technology.software_development.middleware_and_integration_software", "id": 4561360795655990850, "name": "middleware_and_integration_software"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795655990850, 
+    "kind": 1, 
+    "label": "Middleware And Integration Software", 
+    "name": "middleware_and_integration_software", 
+    "path": "edcast.technology.software_development.middleware_and_integration_software", 
+    "query": "middleware|\"integration software\"|\"distributed application\"|\"distributed applications\"", 
+    "status": 1
+}

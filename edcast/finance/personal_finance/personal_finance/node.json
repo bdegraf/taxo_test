@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Personal Finance", "query": "personal finance", "path": "edcast.finance.personal_finance.personal_finance", "id": 4561360799900792837, "name": "personal_finance"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360799900792837, 
+    "kind": 1, 
+    "label": "Personal Finance", 
+    "name": "personal_finance", 
+    "path": "edcast.finance.personal_finance.personal_finance", 
+    "query": "personal finance", 
+    "status": 1
+}

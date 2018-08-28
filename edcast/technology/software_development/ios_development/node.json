@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Ios Development", "query": "\"ios development\" | \"ios programming\" | \"ios developer\" ", "path": "edcast.technology.software_development.ios_development", "id": 4561360795643604400, "name": "ios_development"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795643604400, 
+    "kind": 1, 
+    "label": "Ios Development", 
+    "name": "ios_development", 
+    "path": "edcast.technology.software_development.ios_development", 
+    "query": "\"ios development\" | \"ios programming\" | \"ios developer\" ", 
+    "status": 1
+}

@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Integrated Development Environments", "query": "\"integrated development environments\"  |IDE", "path": "edcast.technology.software_development.integrated_development_environments", "id": 4561360795642105578, "name": "integrated_development_environments"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795642105578, 
+    "kind": 1, 
+    "label": "Integrated Development Environments", 
+    "name": "integrated_development_environments", 
+    "path": "edcast.technology.software_development.integrated_development_environments", 
+    "query": "\"integrated development environments\"  |IDE", 
+    "status": 1
+}

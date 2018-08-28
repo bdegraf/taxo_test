@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Swift", "query": "(swift programming language)-taylor", "path": "edcast.technology.software_development.programming_languages.swift", "id": 4561360797439706045, "name": "swift"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360797439706045, 
+    "kind": 1, 
+    "label": "Swift", 
+    "name": "swift", 
+    "path": "edcast.technology.software_development.programming_languages.swift", 
+    "query": "(swift programming language)-taylor", 
+    "status": 1
+}

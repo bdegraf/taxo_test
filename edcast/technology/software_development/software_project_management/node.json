@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Software Project Management", "query": "software \"project management\"", "path": "edcast.technology.software_development.software_project_management", "id": 4561360795657143945, "name": "software_project_management"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795657143945, 
+    "kind": 1, 
+    "label": "Software Project Management", 
+    "name": "software_project_management", 
+    "path": "edcast.technology.software_development.software_project_management", 
+    "query": "software \"project management\"", 
+    "status": 1
+}

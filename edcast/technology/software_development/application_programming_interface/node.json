@@ -1,1 +1,11 @@
-{"status": "1", "kind": 1, "d": 3, "_s": 0, "label": "application programming interface", "query": "\"application programming interface\"|api -petro*", "path": "edcast.technology.software_development.application_programming_interface", "id": 4561360795638858746, "name": "application_programming_interface"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795638858746, 
+    "kind": 1, 
+    "label": "application programming interface", 
+    "name": "application_programming_interface", 
+    "path": "edcast.technology.software_development.application_programming_interface", 
+    "query": "\"application programming interface\"|api -petro*", 
+    "status": "1"
+}

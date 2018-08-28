@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Software Revision Control Systems", "query": "\"revision control\"|\"version control\"", "path": "edcast.technology.software_development.software_revision_control_systems", "id": 4561360795657521328, "name": "software_revision_control_systems"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795657521328, 
+    "kind": 1, 
+    "label": "Software Revision Control Systems", 
+    "name": "software_revision_control_systems", 
+    "path": "edcast.technology.software_development.software_revision_control_systems", 
+    "query": "\"revision control\"|\"version control\"", 
+    "status": 1
+}

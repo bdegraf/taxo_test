@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Micro Controller", "query": "\"microcontroller\" +software\n\n", "path": "edcast.technology.software_development.micro_controller", "id": 4561360795649581230, "name": "micro_controller"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795649581230, 
+    "kind": 1, 
+    "label": "Micro Controller", 
+    "name": "micro_controller", 
+    "path": "edcast.technology.software_development.micro_controller", 
+    "query": "\"microcontroller\" +software\n\n", 
+    "status": 1
+}
