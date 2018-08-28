@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800745186413, 
+    "kind": 1, 
+    "label": "Vendor Review", 
+    "name": "vendor_review", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.vendor_review", 
+    "query": "(vendor+review|)(KPI+vendor)|(SLA+vendor)", 
+    "status": 1
+}

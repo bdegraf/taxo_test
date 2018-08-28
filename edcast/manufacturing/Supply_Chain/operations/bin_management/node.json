@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800837699914, 
+    "kind": 1, 
+    "label": "Bin Management", 
+    "name": "bin_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.bin_management", 
+    "query": "\"bin management\"", 
+    "status": 1
+}

@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563100518481937191, 
+    "kind": 1, 
+    "label": "Network Supply Chain Management", 
+    "name": "network_supply_chain_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.network_supply_chain_management", 
+    "query": "\"supply chain\" network management", 
+    "status": 1
+}

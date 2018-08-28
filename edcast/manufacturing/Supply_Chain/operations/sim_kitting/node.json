@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563105331912235518, 
+    "kind": 1, 
+    "label": "SIM Kitting", 
+    "name": "sim_kitting", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.sim_kitting", 
+    "query": "kitting+sim|(kitting+warehouse)", 
+    "status": 1
+}

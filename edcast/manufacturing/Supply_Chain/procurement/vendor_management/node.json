@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561391751580655604, 
+    "kind": 1, 
+    "label": "Vendor Management", 
+    "name": "vendor_management", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.vendor_management", 
+    "query": "(\"vendor management\")-cloud|(vendor+management)", 
+    "status": 1
+}

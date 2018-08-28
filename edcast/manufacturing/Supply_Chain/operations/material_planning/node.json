@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563101966500890737, 
+    "kind": 1, 
+    "label": "Material Planning", 
+    "name": "material_planning", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.material_planning", 
+    "query": "(\"material requirements planning\"|(\"supply chain\")+material +planning)-nigeria", 
+    "status": 1
+}

@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800529655545, 
+    "kind": 1, 
+    "label": "Warehouse Manpower Planning", 
+    "name": "warehouse_manpower_planning", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_manpower_planning", 
+    "query": "manpower planning warehous*", 
+    "status": 1
+}

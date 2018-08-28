@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Algorithm Design", "query": "algorithms", "path": "edcast.technology.software_development.algorithm_design", "id": 4561360795637678835, "name": "algorithm_design"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795637678835, 
+    "kind": 1, 
+    "label": "Algorithm Design", 
+    "name": "algorithm_design", 
+    "path": "edcast.technology.software_development.algorithm_design", 
+    "query": "algorithms", 
+    "status": 1
+}

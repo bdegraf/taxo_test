@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800862892917, 
+    "kind": 1, 
+    "label": "Warehouse Operations", 
+    "name": "warehouse_operations", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_operations", 
+    "query": "warehouse operations", 
+    "status": 1
+}

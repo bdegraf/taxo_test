@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Javascript", "query": "javascript|\"node js\"|nodejs", "path": "edcast.technology.software_development.programming_languages.javascript", "id": 4561360797419934432, "name": "javascript"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360797419934432, 
+    "kind": 1, 
+    "label": "Javascript", 
+    "name": "javascript", 
+    "path": "edcast.technology.software_development.programming_languages.javascript", 
+    "query": "javascript|\"node js\"|nodejs", 
+    "status": 1
+}

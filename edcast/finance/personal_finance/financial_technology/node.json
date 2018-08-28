@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360798211554753, 
+    "kind": 1, 
+    "label": "Financial Technology", 
+    "name": "financial_technology", 
+    "path": "edcast.finance.personal_finance.financial_technology", 
+    "query": "(\"financial technology\")+personal", 
+    "status": 1
+}

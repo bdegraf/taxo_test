@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Software Testing", "query": "\"software testing\"|((\"quality assurance\"|qa) (test|testing) software)", "path": "edcast.technology.software_development.software_testing", "id": 4561360795658017543, "name": "software_testing"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795658017543, 
+    "kind": 1, 
+    "label": "Software Testing", 
+    "name": "software_testing", 
+    "path": "edcast.technology.software_development.software_testing", 
+    "query": "\"software testing\"|((\"quality assurance\"|qa) (test|testing) software)", 
+    "status": 1
+}

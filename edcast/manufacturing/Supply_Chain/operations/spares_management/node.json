@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800761777593, 
+    "kind": 1, 
+    "label": "Spares Management", 
+    "name": "spares_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.spares_management", 
+    "query": "\"spares management\"", 
+    "status": 1
+}

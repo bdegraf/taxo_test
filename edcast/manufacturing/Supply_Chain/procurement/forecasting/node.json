@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4612888045708757854, 
+    "kind": 1, 
+    "label": "Forecasting", 
+    "name": "forecasting", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.forecasting", 
+    "query": "(\"forecasting\"+retail)-weather", 
+    "status": 1
+}

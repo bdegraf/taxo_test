@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4614231282138599636, 
+    "kind": 1, 
+    "label": "Procurement And Vendor Development", 
+    "name": "procurement_and_vendor_development", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.procurement_and_vendor_development", 
+    "query": "procurement + (\"vendor development\")", 
+    "status": 1
+}

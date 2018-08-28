@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4614450688028623314, 
+    "kind": 1, 
+    "label": "Inventory Control", 
+    "name": "inventory_control", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.inventory_control", 
+    "query": "inventory control", 
+    "status": 1
+}

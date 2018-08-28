@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561451629535590800, 
+    "kind": 1, 
+    "label": "Cost Savings", 
+    "name": "cost_savings", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.cost_savings", 
+    "query": "cost savings+procurement", 
+    "status": 1
+}

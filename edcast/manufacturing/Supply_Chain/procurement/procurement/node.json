@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561463992176251010, 
+    "kind": 1, 
+    "label": "Procurement", 
+    "name": "procurement", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.procurement", 
+    "query": "(\"procurement\")-trump", 
+    "status": 1
+}

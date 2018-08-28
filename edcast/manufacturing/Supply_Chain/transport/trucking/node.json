@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4723095402370809693, 
+    "kind": 1, 
+    "label": "Trucking", 
+    "name": "trucking", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.trucking", 
+    "query": "trucking -killer", 
+    "status": 1
+}

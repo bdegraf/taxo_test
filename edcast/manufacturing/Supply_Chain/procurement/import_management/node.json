@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561457008512514882, 
+    "kind": 1, 
+    "label": "Import Management", 
+    "name": "import_management", 
+    "path": "edcast.manufacturing.Supply_Chain.procurement.import_management", 
+    "query": "((import +management) | (\"managing import\"))-trump", 
+    "status": 1
+}

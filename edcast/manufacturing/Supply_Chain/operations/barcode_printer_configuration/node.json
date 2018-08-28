@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800789725780, 
+    "kind": 1, 
+    "label": "Barcode Printer Configuration", 
+    "name": "barcode_printer_configuration", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.barcode_printer_configuration", 
+    "query": "barcode printer config*", 
+    "status": 1
+}

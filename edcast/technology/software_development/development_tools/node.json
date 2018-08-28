@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "Development Tools", "query": "\"development tools\" (software|app|applications?)", "path": "edcast.technology.software_development.development_tools", "id": 4561360795642436314, "name": "development_tools"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795642436314, 
+    "kind": 1, 
+    "label": "Development Tools", 
+    "name": "development_tools", 
+    "path": "edcast.technology.software_development.development_tools", 
+    "query": "\"development tools\" (software|app|applications?)", 
+    "status": 1
+}

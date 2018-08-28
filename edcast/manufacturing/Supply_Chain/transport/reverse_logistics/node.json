@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800910989975, 
+    "kind": 1, 
+    "label": "Reverse Logistics", 
+    "name": "reverse_logistics", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.reverse_logistics", 
+    "query": "reverse logistics|\"reverse supply chain\"", 
+    "status": 1
+}

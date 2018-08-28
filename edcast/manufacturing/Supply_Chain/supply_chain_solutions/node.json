@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4632635189188120071, 
+    "kind": 1, 
+    "label": "Supply Chain Solutions", 
+    "name": "supply_chain_solutions", 
+    "path": "edcast.manufacturing.Supply_Chain.supply_chain_solutions", 
+    "query": "\"supply chain solutions\"|(\"supply chain\")+solutions", 
+    "status": 1
+}

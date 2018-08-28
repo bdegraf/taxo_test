@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800561375566, 
+    "kind": 1, 
+    "label": "Types Of Fire", 
+    "name": "types_of_fire", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.types_of_fire", 
+    "query": "(fire+warehouse)-(data|oakland)", 
+    "status": 1
+}

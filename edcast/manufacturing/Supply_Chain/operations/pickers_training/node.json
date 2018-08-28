@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800841686501, 
+    "kind": 1, 
+    "label": "Pickers Training", 
+    "name": "pickers_training", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.pickers_training", 
+    "query": "\"order picker\"", 
+    "status": 1
+}

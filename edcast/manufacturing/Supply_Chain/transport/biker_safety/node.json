@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800918179256, 
+    "kind": 1, 
+    "label": "Biker Safety", 
+    "name": "biker_safety", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.biker_safety", 
+    "query": "(motorcycle+safety)|(bicycle+safety)|(\"messenger bicycle\")+safety", 
+    "status": 1
+}

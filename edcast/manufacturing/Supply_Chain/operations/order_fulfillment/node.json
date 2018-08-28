@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4690482465146193369, 
+    "kind": 1, 
+    "label": "Order Fulfillment", 
+    "name": "order_fulfillment", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.order_fulfillment", 
+    "query": "\"order fulfillment\"", 
+    "status": 1
+}

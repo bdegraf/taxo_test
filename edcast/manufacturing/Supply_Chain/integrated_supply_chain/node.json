@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4615087341368785653, 
+    "kind": 1, 
+    "label": "Integrated Supply Chain", 
+    "name": "integrated_supply_chain", 
+    "path": "edcast.manufacturing.Supply_Chain.integrated_supply_chain", 
+    "query": "\"integrated supply chain\"|(\"supply chain integration\")|(\"supply chain\" +integration)", 
+    "status": 1
+}

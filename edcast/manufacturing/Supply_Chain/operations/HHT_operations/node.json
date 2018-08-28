@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800779186899, 
+    "kind": 1, 
+    "label": "Hht Operations", 
+    "name": "HHT_operations", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.HHT_operations", 
+    "query": "\"hht operations\"|\"hand held terminal\"", 
+    "status": 1
+}

@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800505415186, 
+    "kind": 1, 
+    "label": "Warehouse Infrastructure", 
+    "name": "warehouse_infrastructure", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_infrastructure", 
+    "query": "((warehouse+infrastructure)|(\"warehouse infrastructure\"))-(data|trump)", 
+    "status": 1
+}

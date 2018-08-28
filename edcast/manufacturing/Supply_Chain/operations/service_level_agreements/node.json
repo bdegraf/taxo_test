@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800805781504, 
+    "kind": 1, 
+    "label": "Service Level Agreements", 
+    "name": "service_level_agreements", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.service_level_agreements", 
+    "query": "service level agreements|SLA|SLAs", 
+    "status": 1
+}

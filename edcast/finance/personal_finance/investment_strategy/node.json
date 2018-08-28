@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360798184071359, 
+    "kind": 1, 
+    "label": "Investment Strategy", 
+    "name": "investment_strategy", 
+    "path": "edcast.finance.personal_finance.investment_strategy", 
+    "query": "(\"investment strategy\")+individual", 
+    "status": 1
+}

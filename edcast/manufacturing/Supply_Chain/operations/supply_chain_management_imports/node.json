@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4563101391164803741, 
+    "kind": 1, 
+    "label": "Supply Chain Management Imports", 
+    "name": "supply_chain_management_imports", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.supply_chain_management_imports", 
+    "query": "((supply chain) management imports) -dairy", 
+    "status": 1
+}

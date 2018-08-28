@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800600238462, 
+    "kind": 1, 
+    "label": "Cost Optimization", 
+    "name": "cost_optimization", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.cost_optimization", 
+    "query": "(efficient+warehouse+operations)-data", 
+    "status": 1
+}

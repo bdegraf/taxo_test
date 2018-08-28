@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 3, "_s": 0, "label": "E Commerce Development", "query": "ecommerce+development", "path": "edcast.technology.software_development.e_commerce_development", "id": 4561360795641281669, "name": "e_commerce_development"}
+{
+    "_s": 0, 
+    "d": 3, 
+    "id": 4561360795641281669, 
+    "kind": 1, 
+    "label": "E Commerce Development", 
+    "name": "e_commerce_development", 
+    "path": "edcast.technology.software_development.e_commerce_development", 
+    "query": "ecommerce+development", 
+    "status": 1
+}

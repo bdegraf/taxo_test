@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800730834959, 
+    "kind": 1, 
+    "label": "Inventory Management", 
+    "name": "inventory_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.inventory_management", 
+    "query": "(\"inventory management\") -iot -trump", 
+    "status": 1
+}

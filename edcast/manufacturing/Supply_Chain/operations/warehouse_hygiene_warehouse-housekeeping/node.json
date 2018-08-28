@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800820528402, 
+    "kind": 1, 
+    "label": "Warehouse Hygiene, Warehouse-housekeeping", 
+    "name": "warehouse_hygiene_warehouse-housekeeping", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_hygiene_warehouse-housekeeping", 
+    "query": "\"Warehouse Hygiene\"|'Warehouse-housekeeping\"", 
+    "status": 1
+}

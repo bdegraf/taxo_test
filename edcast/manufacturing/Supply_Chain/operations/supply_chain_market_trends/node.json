@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800640124725, 
+    "kind": 1, 
+    "label": "Supply Chain Market Trends", 
+    "name": "supply_chain_market_trends", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.supply_chain_market_trends", 
+    "query": "supply chain+\"market trends\"", 
+    "status": 1
+}

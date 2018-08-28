@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800934963210, 
+    "kind": 1, 
+    "label": "Transport", 
+    "name": "transport", 
+    "path": "edcast.manufacturing.Supply_Chain.transport.transport", 
+    "query": "\"supply chain\" (transport|logistic*)", 
+    "status": 1
+}

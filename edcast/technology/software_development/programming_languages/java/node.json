@@ -1,1 +1,11 @@
-{"status": 1, "kind": 1, "d": 4, "_s": 0, "label": "Java", "query": "\"java\" -coffee", "path": "edcast.technology.software_development.programming_languages.java", "id": 4561360797427522081, "name": "java"}
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360797427522081, 
+    "kind": 1, 
+    "label": "Java", 
+    "name": "java", 
+    "path": "edcast.technology.software_development.programming_languages.java", 
+    "query": "\"java\" -coffee", 
+    "status": 1
+}

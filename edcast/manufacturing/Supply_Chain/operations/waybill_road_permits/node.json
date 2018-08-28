@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800683622553, 
+    "kind": 1, 
+    "label": "Waybill, Road Permits", 
+    "name": "waybill_road_permits", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.waybill_road_permits", 
+    "query": "waybill|\"road permit\"", 
+    "status": 1
+}

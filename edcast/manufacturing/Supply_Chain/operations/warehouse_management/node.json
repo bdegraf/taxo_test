@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561375269778924334, 
+    "kind": 1, 
+    "label": "Warehouse Management", 
+    "name": "warehouse_management", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehouse_management", 
+    "query": "\"warehouse management\"|WMS", 
+    "status": 1
+}

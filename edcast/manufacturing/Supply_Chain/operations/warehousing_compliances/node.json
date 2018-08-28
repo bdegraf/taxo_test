@@ -1,0 +1,11 @@
+{
+    "_s": 0, 
+    "d": 4, 
+    "id": 4561360800590836651, 
+    "kind": 1, 
+    "label": "Warehousing Compliances", 
+    "name": "warehousing_compliances", 
+    "path": "edcast.manufacturing.Supply_Chain.operations.warehousing_compliances", 
+    "query": "warehousing+compliance", 
+    "status": 1
+}
