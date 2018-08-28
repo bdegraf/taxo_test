@@ -6,6 +6,6 @@
     "label": "Personal Finance", 
     "name": "personal_finance", 
     "path": "edcast.finance.personal_finance.personal_finance", 
-    "query": "personal finance", 
+    "query": "\"personal finance\"", 
     "status": 1
 }
